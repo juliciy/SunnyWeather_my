@@ -3,6 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.sunnyweather_my.android_my">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:name=".SunnyWeatherApplication"
         android:allowBackup="true"
