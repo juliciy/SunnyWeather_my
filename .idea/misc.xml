@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/71029/AndroidStudioLearn/android_my/app/src/main/res/drawable-xxhdpi/ic_launcher_background.xml" value="0.2575" />
+        <entry key="..\:/Users/71029/AndroidStudioLearn/android_my/app/src/main/res/drawable-xxhdpi/ic_launcher_foreground.xml" value="0.2575" />
         <entry key="..\:/Users/71029/AndroidStudioLearn/android_my/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/71029/AndroidStudioLearn/android_my/app/src/main/res/layout/activity_weather.xml" value="0.2" />
         <entry key="..\:/Users/71029/AndroidStudioLearn/android_my/app/src/main/res/layout/forecast.xml" value="0.12314814814814815" />
@@ -11,6 +13,8 @@
         <entry key="..\:/Users/71029/AndroidStudioLearn/android_my/app/src/main/res/layout/life_index.xml" value="0.12314814814814815" />
         <entry key="..\:/Users/71029/AndroidStudioLearn/android_my/app/src/main/res/layout/now.xml" value="0.25" />
         <entry key="..\:/Users/71029/AndroidStudioLearn/android_my/app/src/main/res/layout/place_item.xml" value="0.1" />
+        <entry key="..\:/Users/71029/AndroidStudioLearn/android_my/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/71029/AndroidStudioLearn/android_my/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
       </map>
     </option>
   </component>
