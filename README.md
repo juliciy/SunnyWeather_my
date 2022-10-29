@@ -1,4 +1,6 @@
 # sunnyWeather_my
 
 
-111111111
+使用MVVM架构实现
+
+使用kotlin语言编写
